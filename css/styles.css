@@ -240,6 +240,7 @@
 }
 /* styles for time event */
 .time-event__content{
+    margin-top: 100px;
     display:flex;
     flex-direction:column;
     justify-content: center;
